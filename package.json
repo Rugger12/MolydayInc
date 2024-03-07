@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "Molyday, Inc.",
+  "description": "Digital Content Creators' Playground and Shelter for ICT + Art connect, STEAM education, Creative and Cultural industry",
   "version": "0.2.15",
-  "author": "LekoArts",
+  "author": "Yonghyun Park <admin@moly.day>",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "starter-name": "Molyday, Inc.",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
