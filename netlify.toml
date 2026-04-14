@@ -1,7 +1,6 @@
 [build]
-  command = "npm run build"
+  command = "npm install ajv@^8 --legacy-peer-deps && npm run build"
   publish = "public"
 
 [build.environment]
   NODE_VERSION = "22"
-  NPM_FLAGS = "--legacy-peer-deps"
